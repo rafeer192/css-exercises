@@ -1,16 +1,15 @@
-.odd-element {
+.odd {
     background-color: rgb(212, 106, 99);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px; 
 }
 #second {
     color: rgb(40, 40, 241); 
     font-size: 36px;
 }
-.third {
-    font-size: 24px;
-}
 #fourth {
     background-color: rgb(34, 159, 34);
-    font-size: 24px; 
     font-weight: 900; 
 }
